@@ -5,11 +5,6 @@
 	Authour email: nielborjal@gmail.com
 */
 
-PHP MYSQLI CRUD OPERATION USING BOOTSTRAP
-## How to Run/Install ??
-1. install xampp on your desktop
-2. create database sample and import database sample from folder niel
- done...
 
 #get more projects - www.github.com/niel111/
 #get more projects - www.github.com/niel101/
